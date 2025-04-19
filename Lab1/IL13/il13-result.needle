@@ -1,0 +1,457 @@
+########################################
+# Program: needle
+# Rundate: Sat 19 Apr 2025 12:39:47
+# Commandline: needle
+#    [-asequence] Lab1/IL13/il13-human.fna
+#    [-bsequence] Lab1/IL13/il13-zebrafish.fna
+#    [-outfile] il13-result.needle
+#    -auto
+# Align_format: srspair
+# Report_file: il13-result.needle
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 132656522-132661110
+# 2: c54304684-54301736
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 5281
+# Identity:    1723/5281 (32.6%)
+# Similarity:  1723/5281 (32.6%)
+# Gaps:        3024/5281 (57.3%)
+# Score: 1998.5
+# 
+#
+#=======================================
+
+132656522-132      1 ACGCGCGGGGGCGCCCCTGCCCACCGCTCCCGGCAGGGCTTTTGGTGGCC     50
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132     51 ATGGGGGATAAGGGGCGTTGACTCACCCGGGCGGGGCTCCGGGAGTTGCA    100
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    101 CAGACCAAGGTAGTTCCCCGCTCCTTCCCCCATCACGGAGACCCTGTGGG    150
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    151 AGATGCCGTGGGCCCTCTACTACAGATTAGGAAACAGGCCCGTAGAGGGG    200
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    201 TCACACGGCCAAGTAGCGGCACTCCAGGCACTGGGGGCCCTCGAGGGGAA    250
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    251 GGGGCAGACTTCTGGGAGTCAGAGCCAGCAGCTGGGCTGGGAAGCTTCGA    300
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    301 GTGTGGACAGAGAGGGTGGGAATGACGTTCCCTGTGGGAAGAGAGGGTGG    350
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    351 GCAAGCCTGGGATGCCTCTGAGCGGGAATCCAGCATGCCTTGTGAGGAGG    400
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    401 GTCACAAGCACACCCTTGTGAGGAGGTTGAGCCCCATCGAGGACAGGACG    450
+                                                                       
+c54304684-543      0 --------------------------------------------------      0
+
+132656522-132    451 GAGGGAGCCTGAGCAGGCAGAGAGGGGGCCTGGGGAGGCGCTGG--TTCG    498
+                               ||.||||.|.|       |||         ||||  ||| 
+c54304684-543      1 ----------GATCAGGTATA-------CCT---------CTGGCCTTC-     23
+
+132656522-132    499 GGGAGGAAGTGGGTAGGGGAGA-----AATCTT----GACATCAACACCC    539
+                                        |||     ||||||    ||.|||.| |.|.
+c54304684-543     24 -------------------AGACCACTAATCTTTTGAGAAATCCA-AGCA     53
+
+132656522-132    540 AACAGGC-AAATGCCGTGGCCTCTGCTGTGGGGGTTTCTGGAG-GACTTC    587
+                     |||||.| |||||                        .||.|| .|||||
+c54304684-543     54 AACAGACAAAATG------------------------ATGAAGACACTTC     79
+
+132656522-132    588 TAGGAAAACGAGGGAAGAGCAGGAAAAGGCGACATGGCTGCAGGGGCCAA    637
+                     |                                   |||||..|      
+c54304684-543     80 T-----------------------------------GCTGCTCG------     88
+
+132656522-132    638 GCCCAGGAGCCGCCCTCCACAGCACTCAT-TCTGCAGAAGGG---AAATT    683
+                                  |||.|||.|.|.||.| ||       |||   .|..|
+c54304684-543     89 -------------CCTGCACTGTATTCGTCTC-------GGGTTTTACGT    118
+
+132656522-132    684 TGAGGCCCCCAGACGGCAGGGGTTGATCC--TGCA-GAGACTGGTGAGCA    730
+                     |||         |.||||.|    |||.|  |||| .||||||  .|..|
+c54304684-543    119 TGA---------AAGGCACG----GATGCAATGCATAAGACTG--TATTA    153
+
+132656522-132    731 AAGGGGATCACCCCAAGCCCCAGTGGCACTAGGAACACTTACAATCTCTG    780
+                     ||||.|.|               ||             |||      |||
+c54304684-543    154 AAGGAGCT---------------TG-------------TTA------CTG    169
+
+132656522-132    781 ACCTGGACTAAGGCTG-------CCAGCCTGGCCCAGTTAAGAGTTTCCC    823
+                     |.||||    |.||||       |.|.||   ||||  .|||||    .|
+c54304684-543    170 AACTGG----AAGCTGTGTTAGTCAATCC---CCCA--AAAGAG----AC    206
+
+132656522-132    824 AGAAGG-ATGGCC-------CATACACTTTAAA---------TTAAAGGG    856
+                     | |||| |.||.|       .|||||.||.|||         |.||||.|
+c54304684-543    207 A-AAGGTAAGGACTCTCTTTAATACAGTTCAAACTGTCTGTGTAAAAGAG    255
+
+132656522-132    857 GCCAGACACGTGCACA--------CTACTTCCAGCCA-----------CT    887
+                       |||| |.|||..||        .||.|||.||.||           ||
+c54304684-543    256 --CAGA-ATGTGATCATATAAATGTTATTTCTAGGCAAAAGAAGAAATCT    302
+
+132656522-132    888 --CTGGAAGCTGAGGTGGGG------GGA--TCGCTTGAGTCTGGGAGTT    927
+                       ||.|.|   ||..|||||      |||  |.||.|||       |||.
+c54304684-543    303 TCCTTGTA---GATCTGGGGAAAAAAGGAAGTGGCCTGA-------AGTG    342
+
+132656522-132    928 GGAGGCCAGCCTAGGCAGGCAACATAGTGAGACCCCATCTCCAAAAAAAC    977
+                     .||||..||              ||..||       ||.|          
+c54304684-543    343 TGAGGTGAG--------------ATGATG-------ATTT----------    361
+
+132656522-132    978 AAAACAAAAC-AAAACAAAAAAACACCAAAAAAGCTCCCAGAAAGACCTC   1026
+                         ..|.|| ||||||.|.|.|||                         
+c54304684-543    362 ----TTATACTAAAACAGACATACA-------------------------    382
+
+132656522-132   1027 TGAATCTTTCTGGATCTCTCAGTGGAGACCTGGAAATCTGAACTTTGACA   1076
+                                         ||||.|.|.|     ||    |.|||||.|
+c54304684-543    383 --------------------AGTGTACAGC-----AT----ATTTTGATA    403
+
+132656522-132   1077 ATCCCTCTCACA---GTGGGGCCAAGGAGGAATTAGGCAAGCCAAAAGAA   1123
+                     ||  .|.|||||   .||.|.|     |..||||         ||.|..|
+c54304684-543    404 AT--GTTTCACATTTATGTGTC-----ATTAATT---------AATATTA    437
+
+132656522-132   1124 G----TGAACTTTACTCTTC---TATTGCCTGTTTGAATTTTGTATCCAA   1166
+                     |    ||.|..|||  ||||   ||.|||.|...||||      ||||||
+c54304684-543    438 GTTATTGTATGTTA--CTTCCATTAATGCATTACTGAA------ATCCAA    479
+
+132656522-132   1167 -----------------------GCAAGTGTTACTTAAG-TAATTTAAGA   1192
+                                            ||.||| |.||||.|| |||.||    
+c54304684-543    480 ATCCTTGTTAACATTAGTGCACTGCCAGT-TAACTTGAGCTAACTT----    524
+
+132656522-132   1193 GA------CTGGT---TCATCGAAAA-AATAAAACTCCCCAA--------   1224
+                     ||      ||.||   |.|||.|||| |||||||.|     |        
+c54304684-543    525 GATTTCCTCTTGTTAATAATCAAAAATAATAAAATT-----ATTAGAATT    569
+
+132656522-132   1225 ATTCCCATAG-----------CTGGTAGACTGTGGTCACAGCCACAGTGC   1263
+                     |||.|.||||           ||..||||      |.|||       |..
+c54304684-543    570 ATTTCTATAGGATTATAACTTCTATTAGA------TAACA-------TTA    606
+
+132656522-132   1264 ACTAAGAC----------------------TATCTGC----------TCA   1281
+                     |||||.||                      |||.|.|          |.|
+c54304684-543    607 ACTAATACAATTCTTTTGTAGAGTGTTAGTTATTTACAGTTGAATTATTA    656
+
+132656522-132   1282 GCACT--TCTGG-----TGA--------------CCCAAAAGGGTCTGAG   1310
+                     ||.||  |.|||     |||              ||||||      |||.
+c54304684-543    657 GCCCTCCTTTGGTTTTTTGATTTTTTAAATATTTCCCAAA------TGAT    700
+
+132656522-132   1311 G---ACAGGAGCTCAGAGTTGGGTCAGCTGTCCAGGTACTCAGGGTTGTC   1357
+                     |   |       ||||||             |.|||.|      |||.||
+c54304684-543    701 GTTTA-------TCAGAG-------------CAAGGAA------GTTTTC    724
+
+132656522-132   1358 ACA--------GGCAAAA-----CTGCTGGAACTCAGGGCAGC-------   1387
+                     |||        |..||.|     ||.|||||      |..|||       
+c54304684-543    725 ACAATATGTCTGATAATATTTTTCTTCTGGA------GAAAGCCTTATTT    768
+
+132656522-132   1388 ----ATTGCAAATGCCACGCCGCTCTCAGGGCCCCTTGCCTGCCGCTGGA   1433
+                         |||                            |||      |||.||
+c54304684-543    769 TTTTATT----------------------------TTG------GCTAGA    784
+
+132656522-132   1434 ATTAAACCCACCCAGATCTTGGAAACTCTGCCCTGGACCCTTCTCAATAA   1483
+                     | ||||..||       .||..|.|.|.|....||.|||.||     |||
+c54304684-543    785 A-TAAATGCA-------GTTTTACATTTTTTTATGAACCATT-----TAA    821
+
+132656522-132   1484 GTCCATGAGAAATCAAACTCTTT----CCTTTATGCGA-------CACTG   1522
+                              |..|||||.|.|.|    ||||||.||.|       |||||
+c54304684-543    822 ---------AGGTCAAAATTTATCACCCCTTTAAGCTATTTTTTTCACTG    862
+
+132656522-132   1523 GA----TTTTCC----------ACAAAG-TAAAATCAAGATGAGTAA--A   1555
+                     .|    ||.|.|          |||||| ||||||  |.||.|||.|  |
+c54304684-543    863 TACTATTTGTACTATCATCATGACAAAGATAAAAT--AAATCAGTTATTA    910
+
+132656522-132   1556 GATGTG-GTT---------------TCTAGATAGTGCCTGAAAAAG----   1585
+                     ||..|| |||               |.||||.|.|...|.||||||    
+c54304684-543    911 GAATTGAGTTATTACAACTATTATGTTTAGAAATTTGTTTAAAAAGTCTC    960
+
+132656522-132   1586 -------CAGAGACCATGGTGTCAGG-----------CGTCACCACTTGG   1617
+                            ||||.|        |.|||           ||         ||
+c54304684-543    961 TGTTAAACAGAAA--------TTAGGGAAAAAATAAACG---------GG    993
+
+132656522-132   1618 GCCTATAAAAGCTGCCACAAGACGCCAAGGCCACAAGCCACCCAGCCTAT   1667
+                     |.|||..||..||       |||..|||                    .|
+c54304684-543    994 GGCTAATAATTCT-------GACTTCAA--------------------CT   1016
+
+132656522-132   1668 GCATCCGCTCCTCAATCCTCTCCTGTTGGCACTGGGCCTCATGGCGCTTT   1717
+                     |.||   ||..|||||                              ||||
+c54304684-543   1017 GTAT---CTGTTCAAT------------------------------CTTT   1033
+
+132656522-132   1718 TGTTGACCACGGTCATTGCTCTCACTTGC-CTTGGCGGCTTTGC-CTCCC   1765
+                             |||.|  |||    |||.||| ||||      ||.| |||  
+c54304684-543   1034 --------ACGTT--TTG----CACATGCACTTG------TTACTCTC--   1061
+
+132656522-132   1766 CAGGCCCTGTGCCTCCCTCTACAGCCCTCAG---------------GGAG   1800
+                                       ||||| |.|||||               ||..
+c54304684-543   1062 ------------------CTACA-CTCTCAGAAATAAAGGTACGCAGGCT   1092
+
+132656522-132   1801 CTCATTGAGGAGCTGGTCAACATCACCCAGAACCAGAAGG-----TGAGT   1845
+                     .|||.||.||   ||||              ||..|||.|     |||.|
+c54304684-543   1093 GTCACTGGGG---TGGT--------------ACTTGAATGGTACTTGAAT   1125
+
+132656522-132   1846 G-------TCGG--CTAGCCAGGGTCCTAGCTATGAGGGCTCCAGGGTGG   1886
+                     |       |.||  ||.| .|.||||||   |||                
+c54304684-543   1126 GGTCCTTATTGGTACTTG-AATGGTCCT---TAT----------------   1155
+
+132656522-132   1887 GTGATTCCCAAGA---TGAGGTCATGAGCAGGCTGGGCCT-----GGTCC   1928
+                      ||.|.||.||.|   |.|||  |..|.||...|.|..||     |||.|
+c54304684-543   1156 -TGGTACCTAAAAATTTTAGG--AGAAACACTTTTGTACTTTTTAGGTAC   1202
+
+132656522-132   1929 ---TAAGATG---CCTGTAGGTCAGGAAAAATCTCCATGGACC-----AA   1967
+                        |||.|||   |||.|||||    |..|||    |||||||     ||
+c54304684-543   1203 TAATAATATGTACCCTTTAGGT----ATTAAT----ATGGACCTTTATAA   1244
+
+132656522-132   1968 GGCCCGGCCCAGCCATGAGGGAGAGAGGAGCTGGGCTGGGGGGCTCAGCA   2017
+                       ...||.|.|.||||   .||.|||                  || || 
+c54304684-543   1245 --TTTGGACAACCCAT---TGACAGA------------------TC-GC-   1269
+
+132656522-132   2018 CTGTGGATGGACCTAT-------GGAGGTGTCTGGCAGACTCCCCAGGGA   2060
+                             ||||||.|       .|| ||||.||..|             
+c54304684-543   1270 --------GGACCTTTATTTTTAAGA-GTGTATGTGA-------------   1297
+
+132656522-132   2061 CTACCTGCTCTCCTGGCCTGGCCTTGTCTGCCACTGCCAGCTCCTACTCA   2110
+                                                           ||||        
+c54304684-543   1298 --------------------------------------AGCT--------   1301
+
+132656522-132   2111 GCCATTCCTGAACAGAGGACAGCAGAGAAG-GGCCAGCACCCTCCCAGAA   2159
+                             |.|||||...||||.||..||| ||        .||    ||
+c54304684-543   1302 --------TAAACAGTATACAGTAGTTAAGTGG--------TTC----AA   1331
+
+132656522-132   2160 CCATGTGGCATTTGCCAACTGGATTTTGACCATAAC--------AATGCA   2201
+                     ..||||    |||...|||||..||..|||.|.|||        |||  |
+c54304684-543   1332 AAATGT----TTTAAAAACTGTCTTAAGACAAGAACAGGTGGTGAAT--A   1375
+
+132656522-132   2202 GCCATTCTCCCCAG-CACC----ATCATAGGCCCGCCCTTACAGGAGGAT   2246
+                     |   ||.|   .|| ||.|    ||.|.|||                   
+c54304684-543   1376 G---TTTT---AAGACAACGTTGATGAAAGG-------------------   1400
+
+132656522-132   2247 TCCTTAG-TAGAGTCCGCTCCTTGCCCCACTAGTAACAGCTCACATGTCT   2295
+                        |||| ||.|.|                          |||.|||| |
+c54304684-543   1401 ---TTAGATATACT--------------------------TCAAATGT-T   1420
+
+132656522-132   2296 GAGCACTGCTTACACCAGGCCTGGTGCACGTGCTTTATGTGTCATTTCAT   2345
+                     ||.||.|  ||.||                   ||||    ||||||   
+c54304684-543   1421 GATCATT--TTTCA-------------------TTTA----TCATTT---   1442
+
+132656522-132   2346 CACTGCCAGCCACCT----------CAAGAG--------GCAGGT-----   2372
+                            ..||||||          |||.||        .||.||     
+c54304684-543   1443 -------TTCCACCTCATTTTTAAACAATAGTTTTAATATCAAGTTTTTT   1485
+
+132656522-132   2373 -----------ACGATGA----ACCCATTCTGCTAAGGTTCAGTGAGGTT   2407
+                                |.|||||    ||..|||.|.|||            |||
+c54304684-543   1486 TTTTCTCTTCCATGATGACAGTACATATTGTACTA------------GTT   1523
+
+132656522-132   2408 AAGTGACAGAGGCTGGATTCAAGCCAGGCCTGGCCAACACCAGAGTGTCC   2457
+                     |..|             |.||||             |.||.||      |
+c54304684-543   1524 ATTT-------------TGCAAG-------------ATACTAG------C   1541
+
+132656522-132   2458 AT---GCTCCTAACTGCAGTGTTCCCTCACCATCAGAAGGCAGGGCATT-   2503
+                     ||   |||.|.||.|.||.|.|   ||.|.|.|.|..|||       || 
+c54304684-543   1542 ATTTAGCTACAAAGTACAATTT---CTTAACTTTACTAGG-------TTA   1581
+
+132656522-132   2504 TAA---TACACCAGATCCCCACCGCCTCCCATCTGATTTGTCTTGGTCAA   2550
+                     |||   || ||.||         ||         ||.|  |.||||.|||
+c54304684-543   1582 TAAAGTTA-ACTAG---------GC---------GAGT--TATTGGGCAA   1610
+
+132656522-132   2551 CAGTGGCCCAGGCCACTCCTACTTCACTCGTCCCCACCCTGGCCCTTCCC   2600
+                     ||                    .||..|.||              ||   
+c54304684-543   1611 CA--------------------ATCGTTTGT--------------TT---   1623
+
+132656522-132   2601 GCAGGCCCCTGT---CCTCCTG------------CCCTG----------A   2625
+                              |||   |.|.|||            ..|||          |
+c54304684-543   1624 ---------TGTAGACATTCTGAAAAAAAAAAAAATCTGTAATAATATTA   1664
+
+132656522-132   2626 CTATGGCAAGCCTTGCATGCAGCTTGTCCCTTAC--------TAGTGGTG   2667
+                     .|||.|   .||||..||..|           ||        ||||    
+c54304684-543   1665 ATATTG---ACCTTAAATTAA-----------ACATAAAAAATAGT----   1696
+
+132656522-132   2668 TCAA-TTTTTTTCTCTCAGCTCCAAGACCCTAAACA--------------   2702
+                       || |..||||.|.||||  .|||| |..||||.|              
+c54304684-543   1697 --AACTCATTTTATTTCAG--TCAAG-CATTAAATATATATATATATATA   1741
+
+132656522-132   2703 ---------------------------------------------GTGGG   2707
+                                                                  |||.|
+c54304684-543   1742 TATATATATATATATATATATATATATATATATATATATATGTGTGTGTG   1791
+
+132656522-132   2708 ACCTCACCCCTATGCCTGCTGTTCA---------------AAGCAGAAAA   2742
+                               |.||..|| ||||.|               |...|.|.||
+c54304684-543   1792 ----------TGTGTGTG-TGTTTATATATATATATATATATATATATAA   1830
+
+132656522-132   2743 CGAAGCTCAG--GAATGCTGAGGGGCTGCCAGGCCTGCCTCTGTGCCACA   2790
+                     ...|.||..|  ||||  |.|  .|.|||.|   ||...|||      ||
+c54304684-543   1831 TTCAACTTTGTTGAAT--TTA--AGTTGCAA---CTAATTCT------CA   1867
+
+132656522-132   2791 CCAGGGATGCTTGT--GGGGCCTGTGCTGGGGCAGACCTGGCCTGGGCTG   2838
+                     ..|     |.||.|  |..|.||||                  |.||.||
+c54304684-543   1868 TTA-----GATTATAAGTAGACTGT------------------TAGGTTG   1894
+
+132656522-132   2839 CCAGGGCAGGCCCACAACCCCTGCCAGCACTCTGCTCACTGTCACTT---   2885
+                       |||..||                        |.|.|.|||.|.||   
+c54304684-543   1895 --AGGTTAG------------------------GGTTAGTGTAAGTTGAC   1918
+
+132656522-132   2886 -TGCTCCCACAGGCTCCGCTCTGCAATGGCAGCATGGTATGGAGCATCAA   2934
+                      ||    .|||          |||||    ||..|..|||.|    ||| 
+c54304684-543   1919 ATG----TACA----------TGCAA----AGTTTCTTATAG----TCA-   1945
+
+132656522-132   2935 CCTGACAGCTGGCATGGTAAGGACCTTTGGGTGCAGGGAGGATGGGGCAG   2984
+                                    |.|||  |..|||  ||..|.||||.||  |.||.
+c54304684-543   1946 ---------------GTTAA--ATGTTT--GTTGAAGGAGCAT--GTCAA   1974
+
+132656522-132   2985 AGGCTCCAGGCCTTGGGCTTATCTTCTCTGAGCCTCCCTTCCATGGCTGG   3034
+                     ||                  ||.||                         
+c54304684-543   1975 AG------------------ATATT-------------------------   1981
+
+132656522-132   3035 GGTTCCAAGCA---AG-CTTCAAGTGCTCTCCTCCCTCCCGCCATAATCT   3080
+                           |||||   || ||.|||.|.|||                 |..|
+c54304684-543   1982 ------AAGCAGACAGTCTACAAATACTC-----------------AAAT   2008
+
+132656522-132   3081 GGCCCCTTCCCGCCCACCACCCAGACTCACCTGCGCCAGGCATCTCAGCC   3130
+                     ||.||.|              ||.|.|.|..||           |.|  |
+c54304684-543   2009 GGACCAT--------------CAAAATAAAGTG-----------TTA--C   2031
+
+132656522-132   3131 CCATCTTCCTGCAGACTCACAAAAGGCAGCTGCCCAAGCAGGGCCTGACC   3180
+                     |.||.||                       ||.|||||.||         
+c54304684-543   2032 CAATATT-----------------------TGTCCAAGAAG---------   2049
+
+132656522-132   3181 CCTCGGTGTCCCCTCCCCACAGTACTGTGCAG-----------------C   3213
+                                       |.|.||.|.|..||                 |
+c54304684-543   2050 ------------------AAATTATTTTATAGGAAAAACTTTGAAAATTC   2081
+
+132656522-132   3214 CCTGGAATCCCTGATCAACGTGTCAGGCTGCAGTGCCATCGAGAAGACCC   3263
+                     |||.|   |.|||.|.|||.|||             |.|.|||||.|   
+c54304684-543   2082 CCTTG---CTCTGTTAAACATGT-------------CTTGGAGAAAA---   2112
+
+132656522-132   3264 AGAGGATGCTGAGCGGATTCTGCCCGCACAAGGTCTCAGCTGGGGTAAGG   3313
+                          ||..|.||...|||.|..|.|.|.|               |||  
+c54304684-543   2113 -----ATAATAAGACTATTTTAACTGTATA---------------TAA--   2140
+
+132656522-132   3314 CATCCCCCACCC---------TCTCACACCCACCCTGCACCCCCTCCTGC   3354
+                               ||         |.|.|.|                      
+c54304684-543   2141 ----------CCTTTTTTTTATTTTATA----------------------   2158
+
+132656522-132   3355 CAACCCTGGGCTCGCTGAAGGGAAGCTGGCTGAATATCCATGGTGTG---   3401
+                                |.|||            ..|.||||||    |||||   
+c54304684-543   2159 -----------TAGCT------------TTTTAATATC----GTGTGATA   2181
+
+132656522-132   3402 TGTCCACCCAGGGGTGGGGCCATTGTGGCAGCAGGGACGTGGCCTTC--G   3449
+                     |.|..|.||.|          |||    ||             .|||  .
+c54304684-543   2182 TTTTAATCCTG----------ATT----CA-------------ATTCCAA   2204
+
+132656522-132   3450 GGATTTACAGGATCTGGGCTCAAGGGCTCCTAACTCCTACCTGGGCCTCA   3499
+                     |||||| |||         |||                |||||.|     
+c54304684-543   2205 GGATTT-CAG---------TCA----------------ACCTGTG-----   2223
+
+132656522-132   3500 ATTTCCACATCTGTACAGTAGAGGTACTAACAGTACCCACCTCATGGGGA   3549
+                     |||||.|..|||.|.|||                        ||||...|
+c54304684-543   2224 ATTTCGATGTCTTTGCAG------------------------CATGATTA   2249
+
+132656522-132   3550 CTTCCGTGAGGACTGA--ATGAGACAGTCCCTGG----AAAGCCCCTGGT   3593
+                     .|||.||.||| ||||  |.||||       |||    |||      |||
+c54304684-543   2250 TTTCTGTCAGG-CTGAGGAGGAGA-------TGGTGAAAAA------GGT   2285
+
+132656522-132   3594 TTGTGCGAGTCGTCCCGGCCTCTGGCGTTCTACTCATGTGCTGACC----   3639
+                     |                   ||||||              |||.||    
+c54304684-543   2286 T-------------------TCTGGC--------------CTGTCCGGTG   2302
+
+132656522-132   3640 TC---TTTGTCCTGCAGCAGTTTTCCAGCTTGCATGT-CCG---AGACAC   3682
+                     ||   ||||.||        .|||||         || |||   |||.||
+c54304684-543   2303 TCAAATTTGACC--------CTTTCC---------GTACCGACAAGAAAC   2335
+
+132656522-132   3683 CAAAATCGAGGTGGCCCAGTTTGTAAAGGACCTGCTCTTACATTTA--AA   3730
+                     .||   .||||      |.||  ||||       |.||||||...|  ||
+c54304684-543   2336 TAA---TGAGG------AATT--TAAA-------CACTTACAACCACCAA   2367
+
+132656522-132   3731 GAAACTTTTTCGCGAGGGACAGTTCAA--CTGAAA--------CTTC---   3767
+                     ||          |||||.| ||.|.||  ||||||        ||||   
+c54304684-543   2368 GA----------CGAGGTA-AGCTGAACTCTGAAACATGTCGTCTTCATA   2406
+
+132656522-132   3768 GAAAGCAT-----CATTATTTGCAGAGACAGGACCTGACTA---TTGAAG   3809
+                     .||.||.|     |||..|.||            .|||.||   .|||.|
+c54304684-543   2407 CAATGCCTTCATCCATCCTGTG------------GTGAATAACCATGAGG   2444
+
+132656522-132   3810 TTGCAGATTCATTTTTCTTTCTGA-----TGTCAAAAATGTCTTGGGTAG   3854
+                     ||     |.|   |.|.||||.||     || ||||||            
+c54304684-543   2445 TT-----TAC---TGTGTTTCAGAAAAACTG-CAAAAA------------   2473
+
+132656522-132   3855 GCGGGAAGGAGGGTTAGGGAGGGGTAAAATTCCTTAGCTTAGACCTCAGC   3904
+                              ||.|.|..||||                        |||..
+c54304684-543   2474 ---------AGAGATCAGGAG------------------------TCACG   2490
+
+132656522-132   3905 CTG-TGCTGCCCGTCTTCAG-CCTAGCCGACCTCAGCCTTCCCCTTGCCC   3952
+                     ||| ||.||        .|| |||||..||..|||  ||           
+c54304684-543   2491 CTGCTGATG--------AAGACCTAGAAGAAATCA--CT-----------   2519
+
+132656522-132   3953 AGGGCTCAGCCTGG-TGGGCCTCCTCTGTCCAGGGCCCTG--AGCTCGGT   3999
+                               |||| ||    |..|||           ||  ||.||..|
+c54304684-543   2520 ----------CTGGATG----TTTTCT-----------TGAAAGATCTCT   2544
+
+132656522-132   4000 GGACCCAGGGATGACATGTC--------------CCTACACCCCTCCCCT   4035
+                     .||   ||.|      ||||              ||.|.|        ..
+c54304684-543   2545 TGA---AGTG------TGTCAAGAATATAAATAGCCAAAA--------AA   2577
+
+132656522-132   4036 GCCCTAGAGCACACTGTAGCATTACAGT------GGGTGCCCCCC-----   4074
+                     ||||.|||.||      ||  ||| |.|      ||.|      |     
+c54304684-543   2578 GCCCAAGACCA------AG--TTA-ATTTATGAAGGAT------CAATAT   2612
+
+132656522-132   4075 ------TTGCC--------AGACATGTGGTGGGACAGGGACCCACTTC-A   4109
+                           |||||        | |.|||                   ||| |
+c54304684-543   2613 TTATTTTTGCCTTTATCTTA-AAATG-------------------TTCTA   2642
+
+132656522-132   4110 CACACAGGCAACTGAGGCAGACA----GCAGCTCAGGCACACTTCT---T   4152
+                     |          ||||   |||||    |.|        |.|..|||   |
+c54304684-543   2643 C----------CTGA---AGACAATTTGAA--------AGATATCTATAT   2671
+
+132656522-132   4153 CTTGGTCTTATTTATTATTGTGTG---TTATTTAAATGAGTGTGTTTG--   4197
+                     .|| ||.||.||.|.||||||.||   ||.|||||.|.| |.|.||||  
+c54304684-543   2672 ATT-GTATTCTTAAATATTGTCTGCTATTTTTTAACTTA-TATTTTTGGC   2719
+
+132656522-132   4198 ---TCA--CCGTTGGGGATTGGGGAAGACTGTGGCTGCTAGCACTTGGAG   4242
+                        |||  ||.||    |||.|.|||.|                  |.|.
+c54304684-543   2720 CTTTCATGCCTTT----ATTTGTGAAAA------------------GAAA   2747
+
+132656522-132   4243 CCAAGGGTTCAG--AGACTCAGGGCCCCAGCACTAAAGCAGTGGACACCA   4290
+                     .|||||  .|||  ||||                 ||||| ||     ||
+c54304684-543   2748 TCAAGG--ACAGAAAGAC-----------------AAGCA-TG-----CA   2772
+
+132656522-132   4291 GGAGTCCCTGGTAAT-AAGTACTGTGTACAGAATTCTGCTACCTCACTGG   4339
+                     |       ||||.|| |.|   |||||| ||     ||.||         
+c54304684-543   2773 G-------TGGTTATGATG---TGTGTA-AG-----TGTTA---------   2797
+
+132656522-132   4340 GGTCCTGGGGCCTCGGAGCCTCATCCGAGGCAGGGTCAGGAGAGGGGCAG   4389
+                                     ||.|| |||                         
+c54304684-543   2798 ----------------AGGCT-ATC-------------------------   2805
+
+132656522-132   4390 AACAGCCGCTCCTGTCTGCCAGCCAGCAGCCAGCTCTCAGCCAACGAGTA   4439
+                                   |||||||        ..||.|||         .||.
+c54304684-543   2806 --------------TCTGCCA--------TAAGGTCT---------GGTG   2824
+
+132656522-132   4440 ATTTATTGTTTTTCCTT----GTATTTAAATATTAAATATGTTAGCAAAG   4485
+                     .|||..|||||||  ||    || |||.|.||||                
+c54304684-543   2825 GTTTTGTGTTTTT--TTAATGGT-TTTTATTATT----------------   2855
+
+132656522-132   4486 AGTTAATATATAGAAGGGTACCTTGAAC---------ACTGGGGGAGGGG   4526
+                      ||||.|||.|.|          |||||         .|||.|.||    
+c54304684-543   2856 -GTTATTATTTTG----------TGAACTACAGATTTTCTGTGAGA----   2890
+
+132656522-132   4527 ACAT-------TGAACAAGTTGTTTCATTGACTATCAAACTG-AAGCCAG   4568
+                     ||.|       |||.|    ||||.| |||         ||| |||||  
+c54304684-543   2891 ACCTTTATTTGTGATC----TGTTAC-TTG---------CTGTAAGCC--   2924
+
+132656522-132   4569 AAATAAAGTTGGTGACAGA----TA------   4589
+                     |||||||.|      ||||    ||      
+c54304684-543   2925 AAATAAATT------CAGAGCATTACAAAGG   2949
+
+
+#---------------------------------------
+#---------------------------------------
