@@ -1,0 +1,674 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+JX621874.1          -----------------TCGT--------------CTTTTCCTGACCT-AACATTCCTG-	27
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      -------------CACTCTG-----------------------------TGCTCTTCC--	16
+XM_007551255.2      -----------------TTGTTTTTTTTAAAGTGGGATT-----CCCCGA------CAAC	32
+XM_014989315.1      -----------------TTGTTTTTTTTAAAGTGGGATT-----CCCCGA------CAAC	32
+XM_055024455.1      ------------CTCCTTTGTTTTTTTTAATGTGGGATT-----CCCCGA------CAGC	37
+XM_048988506.1      CCACCCCCTACCCCCCACAGT----TCTATAGAGAGCCCGCCTGTCCCGTTTACATCTGC	56
+AF043946.1          ----------------------------AAAGTGGGATT-----CCCCGA------CAAC	21
+XM_053485316.1      ------------------------------------------------------------	0
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          -AGGAGTTGACACATCTCATGAGTAACAGGGATTGAAAAAGGAATGATATTTAAAAATGA	86
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      ATATTGTTCTCTCAGCCGTGGAAGGAGG--GGACACAAGTGATGGAGGA---GCACGGGT	71
+XM_007551255.2      GTGCTTTAGTCAATTCAAAATATTTTGGAAGTTTTTTCTGGGCGA---------ATCGGA	83
+XM_014989315.1      GTGCTTTAGTCAATTCAAAATATTTTGGAAGTTTTTTCTGGGCGA---------ATCGGA	83
+XM_055024455.1      GTGCTTCAGTCCGTTCAAAATATTTTGGAAGTTGTCT--GGGTGG---------ATTGAA	86
+XM_048988506.1      AGACTACAGTCCCAGCAGAG-----TGGGGGAACGTG--AGGCGAGGAA---ACCCTGGA	106
+AF043946.1          GTGCTGCAGTCACTTCAAAATATTTTGGAAGTTCACA---------GGA---TAATTGGA	69
+XM_053485316.1      ------------------------------------------------------------	0
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          G---GCACTCCCCTTTAATTAA--------------------------------------	105
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      -------T---------------------------------------TGACAATCTGAGC	85
+XM_007551255.2      GGC---TTTCTCCTGAAAAAC---------------------------------------	101
+XM_014989315.1      GGC---TTTCTCCTGAAAAAC---------------------------------------	101
+XM_055024455.1      GGC---TTTCCCCTGAGAAAGACATTGAGTCAACATCTCTGAGCAGTGGTCGCACCGCGG	143
+XM_048988506.1      GTCAGCAAAGCACAC-------------GGCAGCTGCACTGTTCAACTT-----CAGCGC	148
+AF043946.1          GGC---TTTCCC---------------------CTAAAAAGTACATTT------------	93
+XM_053485316.1      ------------------------------------------------------------	0
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	105
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      CAGAACCTGAAACTGAGCCAGGACTCCTTCAAAGAGCTATGGGATAGT-GTGCTAACTCC	144
+XM_007551255.2      --ACATTTGAAAGGGAGCATGGA-------------------GAC-----CAACTTCCCC	135
+XM_014989315.1      --ACATTTGAAAGGGAGCATGGA-------------------GAC-----CAACTTCCCC	135
+XM_055024455.1      CTGTGTGTGAAAGAGAGAATGGA-------------------GGA--CATGGACTACAGC	182
+XM_048988506.1      CAACATG-----CTGTACATGGA-------------------GACGGCCGCTCCAGCACC	184
+AF043946.1          --GAAAG-----C-GAGAATGGA-------------------GGAGGCGGA-CC-TCACC	124
+XM_053485316.1      ------------------------------------------------------------	0
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          --------------------------------TTAATTAAT------TAATATATATACA	127
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      CTC----TATCTCCACA-ATTCCAACC-GCAAATAATGAGA-------------------	179
+XM_007551255.2      CTCCCTTTGAGCCAGG--ACACCTTCC-ATGAATTATGGAACACTGTTGTTTTGTCGACT	192
+XM_014989315.1      CTCCCTTTGAGCCAGG--ACACCTTCC-ATGAATTATGGAACACTGTTGTTTTGTCGACT	192
+XM_055024455.1      CTCCCTCTGAGTCAGG--ACACCTTCC-ACGACTTGTGGAACAACGTGGTTTTGTCCACG	239
+XM_048988506.1      CTA-CAATGAGACGACATACACCAGTCTGAGCCTTCTGAAT-------------------	224
+AF043946.1          CTGCCTTTGAGTCAGG--ACACCTTCC-ATGACTTATGGAACAATGTTTTTTTGTCGACT	181
+XM_053485316.1      ------------------------------------------------------------	0
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          GGGCCTCACTCT--GTCATCCAGGCTGGAGTTTAG------TGGTAC------A------	167
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      ----CTGAAGCA-TGGAGACCAGATGGTAATATGGAAATGCTGTTAT-----------TC	223
+XM_007551255.2      GAGAATGAGTCTTTGGCTACAGGT---G---AC-GGATTGCTGGATCT-----A------	234
+XM_014989315.1      GAGAATGAGTCTTTGGCTACAGGT---G---AC-GGATTGCTGGATCT-----A------	234
+XM_055024455.1      GACAGTGGCACT-CTGGGCCCAGCCTCA---TT-GGAC-------------CCA------	275
+XM_048988506.1      -AGCATGGACCAGCAGATTCCAACCAGT---A--GGTCTTCATCTACCAGCCCATACAAC	278
+AF043946.1          GAGAATGAGTCTTT--GGCCCCCCCAGA---A--GGATTGTTGA-----GTCAA------	223
+XM_053485316.1      -----------------------------------------TGT-----GT---------	5
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          ---------ATCATGGCTCAC--------TGCAGCCCCGACTTCTCGGGCTC---AAGGG	207
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      GACGAGCATGTCCTGGCCCAGGGGTTTGATGAAAATCT-GTTTGAGTTACCCCCCGAGAT	282
+XM_007551255.2      AATATGGAT-TTT------TGGGAGAATGGAGAACTCC-----------CACAGCAG-GA	275
+XM_014989315.1      AATATGGAT-TTT------TGGGAGAATGGAGAACTCC-----------CACAGCAG-GA	275
+XM_055024455.1      AATATGGTG-TTT------TGGGAG--------AATCCTGA------GGCTATACCA-GA	313
+XM_048988506.1      AACGAGCACACCC------AGAGCGGCGTGGCCGCCCCTTCGCCCTATGCCCAGCCC-AG	331
+AF043946.1          AATATGGATTT-T------TGGGA-----GGA---TCCGG-AAACTATGC-----AG-GA	261
+XM_053485316.1      ---GTGCGCAA-G------AGAGA-----GGC---------------AGC-----GA-GA	29
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          ATC-----------------------CTCACACCTCAGTCCCCC---------AGTAACC	235
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      TTCCACCAAAGACGGCGTTACTCCCCCGGCCTCCACCGTCCCTGTTACAACAGACTATCC	342
+XM_007551255.2      ---AACTAAAAATG------TGCCTGCAGCCCCAATGGTCCCCGCAATTTCGAATTATGC	326
+XM_014989315.1      ---AACTAAAAATG------TGCCTGCAGCCCCAATGGTCCCCGCAATTTCGAATTATGC	326
+XM_055024455.1      ---GACCAAAT------TTCTTCAGGCTGCACCAATGGTTCCTGCTGTTTCAAATTATGC	364
+XM_048988506.1      ---CTCCACCTTCGAGACACTGTCTCCATCACCCGCCATCCCCTCCAACACCGACTATGC	388
+AF043946.1          ---AACTAAAAATGT------GCCCACTGCACCAACTGTCCCAGCAATTTCTAATTATGC	312
+XM_053485316.1      ---AACCGCAAAGGAGA---GATCCACATCCC----------------------------	55
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          AGGACTATA--TGTTCATAAAC------------CCATGCCCAGATAA------------	269
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      AGGGGAGTATGGCTTCCAGCTTCGCTTTCAGAAATCTGGCACGGCAAAGTCTGTCACTTC	402
+XM_007551255.2      CGGGGAACTTGATTTTGCGCTCCATTTCAATGATTCTGGAACAGCAAAGAGTGTGACCTC	386
+XM_014989315.1      CGGGGAACTTGATTTTGCGCTCCATTTCAATGATTCTGGAACAGCAAAGAGTGTGACCTC	386
+XM_055024455.1      TGGAGAACATGGGTTCAGCTTGTCATTTAATGACGCCGGCACTGCTAAGAGCGTCACCTC	424
+XM_048988506.1      CGGCCCCCACAATTTCGACGTCTCCTTCCAGCAGTCCAGCACCGCCAAGTCTGCCACGTG	448
+AF043946.1          TGGGGAGCATGGGTTCAATCTCGAATTTAATGACTCGGGCACAGCTAAAAGTGTCACCTC	372
+XM_053485316.1      ----------------AAACCCTAGTTTCCTGTCGTGAGAGCAGCAGTAA-AGACATCAC	98
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          --CTTTT----AA-AATTT---TTGAAGAGATGACATCTCACTGTG--------------	305
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      CACTTATTCAGAGCTTCTCAACAAGCTGTATTGCCAGCTGGCAAAGACGAGCCCTGTTGA	462
+XM_007551255.2      TACGTTTTCAGAAAAATTGACCAAGCTATTCTGCCAGCTGGCTAAGACCACTCCGATTGG	446
+XM_014989315.1      TACGTTTTCAGAAAAATTGACCAAGCTATTCTGCCAGCTGGCTAAGACCACTCCGATTGG	446
+XM_055024455.1      CACTTTCTCTGAAAAGCTTGGGAAACTATTCTGCCAGCTGGCTAAAACCACACCGATTGG	484
+XM_048988506.1      GACGTACTCCACAGAGCTGAAGAAGCTGTACTGCCAGATCGCCAAGACCTGCCCCATCCA	508
+AF043946.1          CACATACTCAGTTAAACTTGGGAAGCTGTTCTGCCAGCTGGCAAAAACGACTCCAATTGG	432
+XM_053485316.1      --GGTACTCCCCAGATCTGAATAAGCTGTTCTGTCAGTTGGCGAAGACGTGTCCCGTGCT	156
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          -----------------CCCCCAGGCTGGTCTCAAACTCCTGGGCTCAAGCGATCCTC--	346
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      AGTTCTAGTGAGCAAGGCGCTTCCTCCGGGTGCTGTCCTCAGGGCCACAGCGGTTTACAA	522
+XM_007551255.2      GATATTGGTTAAGGTGGAGCCTCCTCAGGGCGCCGTCATCAGAGCAACGGCCGTGTATAA	506
+XM_014989315.1      GATATTGGTTAAGGTGGAGCCTCCTCAGGGCGCCGTCATCAGAGCAACGGCCGTGTATAA	506
+XM_055024455.1      GATTTTGGTGAAGGAGGAACCTCCGGCGGACGCCATCATCAGAGCAACGGCCGTGTATAA	544
+XM_048988506.1      GATCAAAGTACTGACCGCTCCGCCCCAGGGCGCTATCATCCGCGCCATGCCGGTCTACAA	568
+AF043946.1          AGTTTTGGTTAAGGAGGAGCCTCCGCAGGGTGCCGTCATTAGAGCAACTTCAGTATACAA	492
+XM_053485316.1      GATGGCGGTAAGCTCCTCCCCCCCGCCGGGGTGCGTGCTCAGAGCCACCGCCGTGTACAA	216
+XM_018575949.1      ------------------------------------------------------------	0
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	346
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      GAAGACTGAACATGTGGCGGAAGTGGTCCGCAGATGTCCCCATCACCAGAATGAAGACTG	582
+XM_007551255.2      AAAGACTGAGCATGTGGCAGAAGTCGTCAAGAGGTGCCCACACCACCAAAGTGAAGACAC	566
+XM_014989315.1      AAAGACTGAGCATGTGGCAGAAGTGGTCAAGAGGTGCCCACACCACCAAAGTGAAGACGC	566
+XM_055024455.1      AAAGACTGAGCATGTGGCAGAAGTCGTCAAGAGGTGCCCACACCACCAAAGTGAAGACTC	604
+XM_048988506.1      AAAGGCAGAACATGTGACCGAGGTGGTGAAGCGCTGTCCCAACCACGAGCTGAGCCGCGA	628
+AF043946.1          GAAGACTGAACATGTGGGAGAAGTCGTTAAGAGGTGCCCACACCACCAAAGTGAAGACTT	552
+XM_053485316.1      GAGATCAGAACACGTGGCCGAGGTGGTGCGGCGCTGCCCTCACCACGAGAGGAGCAACGA	276
+XM_018575949.1      -------------------------GTCATGTGACTCCCTCACCCCCATGT-TTCT---G	31
+                                                                                
+
+JX621874.1          ----------------------------------CTG-----------------------	349
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      CGC---------------AGAACATCGCAGCCATCTGATCAGAGTGGAGGGCAGCCAGAG	627
+XM_007551255.2      GTCT--------------GAC-AACAAGAGCCATCTGATCCGAGTGGAGGGCAGCCAGCT	611
+XM_014989315.1      GTCC--------------GAC-AACAAGAGCCATCTGATCCGAGTGGAGGGCAGCCAGCT	611
+XM_055024455.1      GTC--------------CGACA-ACAAGAGCCATCTGATCCGAGTGGAGGGCAGCCAGCT	649
+XM_048988506.1      GTTTAACGATGGTCAAATGGCTCCCCCCAGTCACCTGATTCGAGTGGAGGGAAACAGCCA	688
+AF043946.1          -----------GT---CTGACA-ACAAGAGTCACCTGATCAGAGTGGAGGGCAGCCAGCT	597
+XM_053485316.1      CAGCAACGAGGGT---CCGGCTCCTCCCGGTCACCTGCTCCGTGTGGAAGGTAACACCCG	333
+XM_018575949.1      TTCTCTCTCAGAC---TTTGCCCCTCGAAGTCACCTGATCCGCGTGGAAGGGAATTTAAT	88
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	349
+AF043948.1          ------------------------------------------------------------	0
+XM_034901367.1      AGCTCAGTATTTTGAAGATCCGCACACAAAGAGGCAAAGTGTGACAGTCCCTTACGAGCC	687
+XM_007551255.2      GGCCCAGTACTTTGAGGATCCGAACACCAAAAGGCAGAGCGTGACCGTGCCTTACGAACG	671
+XM_014989315.1      GGCCCAGTACTTTGAGGATCCGAACACCAAAAGGCAGAGCGTGACCGTGCCTTACGAACG	671
+XM_055024455.1      GGCCCAGTACTTTGAGGATCCGTTCACCAAAAGGCAGAGCGTGACCGTGCCTTACGAACG	709
+XM_048988506.1      TGCCCAGTACGTCGAGGACTCCATCACAGGCCGCCAGAGTGTCTGGGTCCCTTACGAGCC	748
+AF043946.1          GGCGCAATACTTTGAGGACCCAAACACCAGGAGGCACAGCGTGACCGTGCCCTACGAACG	657
+XM_053485316.1      GGCGCTTTATCAGGAGGACAGGAACACACAGCGCCACAGTGTGGTGGTGCCCTACGAACC	393
+XM_018575949.1      GGCTCAATACTCGGAGGACGGGAACGG---GCGTCACAGCGTGTGCGTGCCTTACGAGGA	145
+                                                                                
+
+JX621874.1          -CCTTAGTCTC-------------------------------------------------	359
+AF043948.1          ----TCGACTCGATCCGAGATGACCACAATCCTTCTGAGCTTTATGTGCAACAGCTCCTG	56
+XM_034901367.1      ACCACAGTTGGGCTCCGAGATTACAACCATCCTGCTCAGCTATATGTGCAACAGTTCCTG	747
+XM_007551255.2      CCCACAGCGGGGATCTGAGATGACGACCATCCTGCTGAGCTTTATGTGCAACAGCTCCTG	731
+XM_014989315.1      CCCACAGCGGGGATCTGAGATGACGACCATCCTGCTGAGCTTTATGTGCAACAGCTCCTG	731
+XM_055024455.1      CCCACAGCTGGGATCTGAGACGACCACCATCCTGCTGAGCTTCATGTGCAACAGCTCCTG	769
+XM_048988506.1      GCCCCAGGTGGGGACCGAGTTTACGACCATCCTATATAACTTCATGTGTAACTCCAGCTG	808
+AF043946.1          CCCACAGCTGGGATCTGAGATGACCACAATCCTTCTGAGCTTTATGTGCAACAGCTCCTG	717
+XM_053485316.1      CCCTCAGGTGGGATCCAGGTGCACCACTGTGCTGTATAACTACATGTGTAACAGCAGCTG	453
+XM_018575949.1      GCCGCAGGTGGGGTCCCAGTGTACGGCCGTCCTCCTGAACTACATGTGTAACAGTTCCTG	205
+                         .*                                                     
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          CATGGGAGGCATGAACCGGAGGCCCATCCTCACCATCCTGACCCTGGAGACCACAGAGTG	116
+XM_034901367.1      CATGGGCGGCATGAACCGCAGACCCATCCTCACCATCCTGACCCTCGAGACCCCAGAGGG	807
+XM_007551255.2      CATGGGAGGCATGAACCGGAGGCCCATCCTCACCATCCTGACCCTGGAGACCCCAGAGGG	791
+XM_014989315.1      CATGGGAGGCATGAACCGGAGGCCCATCCTCACCATCCTGACCCTGGAGACCCCAGAGGG	791
+XM_055024455.1      CATGGGAGGCATGAACCGGAGGCCCATCCTCACCATCCTGACCCTGGAGACCACAGAGGG	829
+XM_048988506.1      CGTGGGCGGCATGAACCGGAGGCCCATCCTCATTATCGTTACCCTGGAGACCAGAGATGG	868
+AF043946.1          CATGGGAGGCATGAACCGGAGGCCCATCCTCACCATCCTGACCCTGGAGACCACAGAGGG	777
+XM_053485316.1      TATGGGGGGAATGAACCGCCGGCCCATCCTCACCATCATCACACTGGAAACACAGGATGG	513
+XM_018575949.1      CATGGGGGGTATGAACCGCAGACCCATCATGACCATCATCACCCTGGAGTCCAAGGAGGG	265
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AGTCGCCGTCTTTGTTGGTACATAAGATGTTAGTTGTAGTGGTTTGGGTCTTATGTTATT	176
+XM_034901367.1      ------------------------------------------------------------	807
+XM_007551255.2      ------------------------------------------------------------	791
+XM_014989315.1      ------------------------------------------------------------	791
+XM_055024455.1      ------------------------------------------------------------	829
+XM_048988506.1      ------------------------------------------------------------	868
+AF043946.1          ------------------------------------------------------------	777
+XM_053485316.1      ------------------------------------------------------------	513
+XM_018575949.1      ------------------------------------------------------------	265
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AAAGCTGATAAATGGAGTCCACCATCATGTTAAGGTTTATTTGAATATATTTGAAAGACA	236
+XM_034901367.1      ------------------------------------------------------------	807
+XM_007551255.2      ------------------------------------------------------------	791
+XM_014989315.1      ------------------------------------------------------------	791
+XM_055024455.1      ------------------------------------------------------------	829
+XM_048988506.1      ------------------------------------------------------------	868
+AF043946.1          ------------------------------------------------------------	777
+XM_053485316.1      ------------------------------------------------------------	513
+XM_018575949.1      ------------------------------------------------------------	265
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TTTCTCATTTCTCTTTTAGCTTTTGATGTGTTTTTTTTGTTGTTTTTTTTTTTTAAACCT	296
+XM_034901367.1      ------------------------------------------------------------	807
+XM_007551255.2      ------------------------------------------------------------	791
+XM_014989315.1      ------------------------------------------------------------	791
+XM_055024455.1      ------------------------------------------------------------	829
+XM_048988506.1      ------------------------------------------------------------	868
+AF043946.1          ------------------------------------------------------------	777
+XM_053485316.1      ------------------------------------------------------------	513
+XM_018575949.1      ------------------------------------------------------------	265
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TTTTCCTTTTGGTGTTGTTTAACTTTAGGGGGGAGGTGTTGGGCAGGCGGTGCTTCGAGG	356
+XM_034901367.1      -------------------------------ACTTGTTTTGGGCCGGATGTGCTTTGAGG	836
+XM_007551255.2      -------------------------------GGAGGTTTTGGGCAGGCGGTGCTTTGAGG	820
+XM_014989315.1      -------------------------------GGAGGTTTTGGGCAGGCGGTGCTTTGAGG	820
+XM_055024455.1      -------------------------------GGAGGTTTTGGGCAGGCGGTGCTTCGAGG	858
+XM_048988506.1      -------------------------------ACAGGTGCTGGGCCGCAGGTGCTTCGAGG	897
+AF043946.1          -------------------------------GGAGGTGTTGGGCAGGCGGTGCTTCGAGG	806
+XM_053485316.1      -------------------------------TCAGCTGTTGGGTCGGCGTACATTTGAGG	542
+XM_018575949.1      -------------------------------CATCCTCCTGGGCCGGCGCTGCTTCGAGG	294
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TCCGTGTCTGTGCCTGTCCAGGCAGGGACCGCAAGACAGAGGAAGGAAACCT--GGAAAA	414
+XM_034901367.1      TGCGTGTCTGTGCATGTCCTGGCAGGGACCGTAAAACTGAGGAAGAAAACAGCACTAAGA	896
+XM_007551255.2      TCCGTGTCTGTGCCTGTCCAGGCAGGGACCGCAAGACGGAGGAAGAAAACCT--GGAGAA	878
+XM_014989315.1      TCCGTGTCTGTGCCTGTCCAGGCAGGGACCGCAAGACGGAGGAAGAAAACCT--GGAGAA	878
+XM_055024455.1      TCCGTGTCTGTGCCTGTCCAGGCAGGGACCGCAGGACGGAGGAAGAAAACCT--GGAGAA	916
+XM_048988506.1      CCCGGATCTGCGCCTGCCCTGGACGGGACCGCAAGGCGGACGAGGACAGTATCCGCAAGC	957
+AF043946.1          TCCGTGTCTGTGCCTGTCCAGGCAGGGACCGCAAGACAGAGGAAGGAAACCT--GGAAAA	864
+XM_053485316.1      TGCGTGTGTGTGCGTGTCCCGGGCGCGACAGGAAGACTGAAGAGATCAACTTCAGGAAAC	602
+XM_018575949.1      TCCGCGTGTGCGCCTGTCCTGGTCGGGACCGCCGGACTGAGGAGGAGAACTTCACCAAGA	354
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AAGT----GGGACTAAGCAGACGAAGAAAAGAAG-TATGCTTTTAAATTGTTTTATATGT	469
+XM_034901367.1      TGCAGAACGGCACCAAACAAACAAAAAAACGTAAGAGCG---------------------	935
+XM_007551255.2      AAAT----GGCACTAAGCAGACAAAGAAAAGAAAGAGCG---------------------	913
+XM_014989315.1      AAAT----GGCACTAAGCAGACAAAGAAAAGAAAGAGCG---------------------	913
+XM_055024455.1      AAAC----GGGACCAAGCAGACAAAGAAAAGAAAGAGCA---------------------	951
+XM_048988506.1      AGCA----CGTGACGGACGGGACA---AAGAGCGGCGAG---------------------	989
+AF043946.1          AAGT----GGGACTAAGCAGACGAAGAAAAGAAAGAGCG---------------------	899
+XM_053485316.1      TGCA----GGAACCCAAAAACTC-AGGAAAAACA--GTT---------------------	634
+XM_018575949.1      AAAA----GGAGCTGAAGGGCAGCGGGAAGAGAGGTGAG---------------------	389
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          ATGTATAGTAGACTAAAGTTTTATTCCATCTGTCGCTTATCATGAGCATTCTTCATTTTA	529
+XM_034901367.1      -----------------------CGCCGGC---------------CGTGCCTTCACCTCG	957
+XM_007551255.2      -----------------------CTCCTGC---------------TCCAG-----ACA--	928
+XM_014989315.1      -----------------------CTCCTGC---------------TCCAG-----ACA--	928
+XM_055024455.1      -----------------------CTCCTGC---------------TCCAA-----A----	964
+XM_048988506.1      ----------------------------GC---------------ATACC-----ACA-A	1000
+AF043946.1          -----------------------CTCCTGC---------------TCC-----------A	910
+XM_053485316.1      -----------------------ACCAAGC---------------GCAGC-----TTGAA	651
+XM_018575949.1      -----------------------ACTCTGC---------------GGAG--------GTG	403
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GAGAGCGCTCCTGC-------TCCAGATACCTCCACCGCAAAAAAGTCCAAGTCTGCCTC	582
+XM_034901367.1      -----GGCTCCTGACACAA-------------CTTCTGTGAAGAAGTCCAAGTCTGCCTC	999
+XM_007551255.2      -------------------C-------A---TCCACTGCTAAAAAGTCCAAGTCTGTCTC	959
+XM_014989315.1      -------------------C-------A---TCCACTGCTAAAAAGTCCAAGTCTGCCTC	959
+XM_055024455.1      -----------------TAC-------T---TCCACTGCTAAAAAGTCCAAGTCTGCCTC	997
+XM_048988506.1      -----GG--CCTCACACAACATCCAGTT---GCCTTCCATTAAGAAACGAAGAGCCACA-	1049
+AF043946.1          -----GATACCTCC-A----------------CCGCAAA---AAAGTCCAAGTCTGCCTC	945
+XM_053485316.1      -----GGATCCGCC-CTCACACCCTGAG---GCCAGTAA---AAAGTCCAAGAGCAGCAG	699
+XM_018575949.1      -----GGA------------------------CCAG------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TAGTGGAGAGGATGAGGACAAGGAGATTTACACTCTCTCTGTAAGGCCTGTTTCTGCAAC	642
+XM_034901367.1      CAGTGCAGAGGAGGAGGACAAGGATGTGTATGTTTTCCA---------------------	1038
+XM_007551255.2      CAGTGGAGAGGATGAGGACAAGGAGTTGTACACTCTCCA---------------------	998
+XM_014989315.1      CAGTGGAGAGGATGAGGACAAGGAGTTGTACACTCTCCA---------------------	998
+XM_055024455.1      CAGTGGAGAGGATGATGACAAGGAGATTTACACTCTCTC---------------------	1036
+XM_048988506.1      ----------------GATGAGGAGACATTCTGCCTGGC---------------------	1072
+AF043946.1          TAGTGGAGAGGATGAGGACAAAGAGATTTACACTCTCTC---------------------	984
+XM_053485316.1      CAGT------------GATGATGAGATTTACACACTGCA---------------------	726
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TGGATGACATCACAATATTAGGATGAATGAAGTAACTTTTTTACTTTCTAACAAGAAGCA	702
+XM_034901367.1      ------------------------------------------------------------	1038
+XM_007551255.2      ------------------------------------------------------------	998
+XM_014989315.1      ------------------------------------------------------------	998
+XM_055024455.1      ------------------------------------------------------------	1036
+XM_048988506.1      ------------------------------------------------------------	1072
+AF043946.1          ------------------------------------------------------------	984
+XM_053485316.1      ------------------------------------------------------------	726
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GATCCGGGGCCGTAATCGTTATCTGTGGTTCAAGAGCCTCAACGACGGTCTGGAACTGAT	762
+XM_034901367.1      TGTTCGTGGTCGCGAGCGCTATGAAATGCTTAAGAAAATTAATGATGGTCTGGATTTGCT	1098
+XM_007551255.2      GATTCGGGGCCGTGAGCGTTTCCTAATGTTCAAGAAGCTCAACGATGGTCTGGAGCTCAT	1058
+XM_014989315.1      GATTCGGGGCCGTGAGCGTTTCCTAATGTTCAAGAAGCTCAACGATGGTCTGGAGCTCAT	1058
+XM_055024455.1      AATTCGGGGCCGTAATCGTTATCTCTGGTTCAAGAACCTCAACGATGGCCTGGAACTGAT	1096
+XM_048988506.1      GATTAAAGGCCGTGAGATCTATGAATTTCTGGTGAAAATTAAGGAGTCCCTGGAGTTGAT	1132
+AF043946.1          TATCCGGGGCCGTAATCGTTATCTGTGGTTCAAGAGCCTCAACGACGGTCTGGAACTGAT	1044
+XM_053485316.1      GGTGCGTGGCAGAGAGCGTTATGAGTTCCTGAAGAGGATTAATGACGGTCTGGAGCTCAG	786
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GGATAAAACGGGGTAAGGAAAGTCCGTAGACTACACACTGAAACTATCTTTGGACTTTGG	822
+XM_034901367.1      CGAAAAACA-------CAG----------CAA----------------------------	1113
+XM_007551255.2      GGAGAAAATGGGGCCCAAG----------AAA----------------------------	1080
+XM_014989315.1      GGAGAAAATGGGCCCCAAG----------AAA----------------------------	1080
+XM_055024455.1      GGATAAAATGGGGCCCAAG----------GTA----------------------------	1118
+XM_048988506.1      G---CAGTTTGTGCCCCAA----------CAG----------------------------	1151
+AF043946.1          GGATAAAACGGGGCCCAAG----------ATA----------------------------	1066
+XM_053485316.1      TGATC---TGGTGCCCCCT----------GCT----------------------------	805
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TTACATCAGTTACGATGCAGCTCACGAGGTTTTTCCTTCAGGTCAGGATTTCAGTCGCAG	882
+XM_034901367.1      -------------------AACCAAGA---------------------------------	1121
+XM_007551255.2      -------------------AAGCAGGAGG-------------------------------	1090
+XM_014989315.1      -------------------AAGCAGGAGG-------------------------------	1090
+XM_055024455.1      -------------------AAACCGGA---------------------------------	1126
+XM_048988506.1      -------------------ACTATTGAGGCATATA--------------GGCAGCAGCAG	1178
+AF043946.1          -------------------AAACAGGA---------------------------------	1074
+XM_053485316.1      -------------------GACCAGGAGAAGTATC--------------GAC--------	824
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TTGAGGAAAGAGGCGAAACAAGCACCACACACAGGCGTTTAACATAAATGGGCAAATTAA	942
+XM_034901367.1      ------------------------------------------------------------	1121
+XM_007551255.2      ------------------------------------------------------------	1090
+XM_014989315.1      ------------------------------------------------------------	1090
+XM_055024455.1      ------------------------------------------------------------	1126
+XM_048988506.1      CAGA------------AT-------CTCA-------------------------------	1188
+AF043946.1          ------------------------------------------------------------	1074
+XM_053485316.1      -AGA------------AA-------CTTT-------------------------------	833
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AGTTAATTTTTGTTTAAAAATGACACAAACTGAGTTACTCAGAAGTGTGAATATTGCAGT	1002
+XM_034901367.1      -------------------------------------------------------CC---	1123
+XM_007551255.2      ------------------------------------------------------------	1090
+XM_014989315.1      ------------------------------------------------------------	1090
+XM_055024455.1      ------------------------------------------------------------	1126
+XM_048988506.1      ----------TCCAGAAACATAA--------------------------------CCGGC	1206
+AF043946.1          ------------------------------------------------------------	1074
+XM_053485316.1      ----------TGTC----TAAGA--------------------------------CCTG-	846
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TCAACTTTCCCCTCACCTTTCCATTCATTTGCCTTGAATGTCTAGAATATTATGAAAAAT	1062
+XM_034901367.1      ------------------------------------------------------------	1123
+XM_007551255.2      ------------------------------------------------------------	1090
+XM_014989315.1      ------------------------------------------------------------	1090
+XM_055024455.1      ------------------------------------------------------------	1126
+XM_048988506.1      ACCTCCATCCC--------TCCCATCT-----------GGTCC-----------------	1230
+AF043946.1          ------------------------------------------------------------	1074
+XM_053485316.1      ---------------------CAAAAA-----------GGAGA-----------------	857
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GCTGGAAAAATTGATACATTTGGGTTGGGAAGTTTAGAAATGGAAACCTGTACAAAAGCG	1122
+XM_034901367.1      ----------------------------------------AAGGTTTCTGTG--------	1135
+XM_007551255.2      ------------------------------------------------------------	1090
+XM_014989315.1      ------------------------------------------------------------	1090
+XM_055024455.1      ------------------------------------------------------------	1126
+XM_048988506.1      ----------------------------------------AGGAACTCCATG--------	1242
+AF043946.1          ------------------------------------------------------------	1074
+XM_053485316.1      -----------------------------------------G------------------	858
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GACACAAAAACTAGAGGCTGATGTGCTGAAATGTGTCTGATCACAGCAGGATAACCTGAA	1182
+XM_034901367.1      ------------------------------------------------------------	1135
+XM_007551255.2      ------------------------------------------------------------	1090
+XM_014989315.1      ------------------------------------------------------------	1090
+XM_055024455.1      ------------------------------------------------------------	1126
+XM_048988506.1      ------------------------------------------------------------	1242
+AF043946.1          ------------------------------------------------------------	1074
+XM_053485316.1      ------------------------------------------------------------	858
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          CACTGTAGATCAGATGTCCAGTCCTAAAGCTCTAAACTACCCTGCAGGTTTTAGATGCCT	1242
+XM_034901367.1      -----------------------------------A------AACAGGAGTT----T---	1147
+XM_007551255.2      ---------------------------------------------------T----T---	1092
+XM_014989315.1      ---------------------------------------------------T----T---	1092
+XM_055024455.1      -------------------------------------------------GAT----T---	1130
+XM_048988506.1      -----------------------------------CCCCCCCAGCCGACGTT----CCCA	1263
+AF043946.1          -------------------------------------------------GAT----T---	1078
+XM_053485316.1      ------------------------------------------AGACGGAGCT----G---	869
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          CTCTTTCTCCACCATTTGAATCAGTTGAATGACTCGCTAGAGGGGATACACCCAAGAGTT	1302
+XM_034901367.1      ------------------------------------------------------------	1147
+XM_007551255.2      ------------------------------------------------------------	1092
+XM_014989315.1      ------------------------------------------------------------	1092
+XM_055024455.1      ------------------------------------------------------------	1130
+XM_048988506.1      ------------------------------------------------------------	1263
+AF043946.1          ------------------------------------------------------------	1078
+XM_053485316.1      ------------------------------------------------------------	869
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AAGAGGACTGGAGTTGGGCTCCCTTATCTAGATAACTTTATTGCAGGAAAAACCACAATG	1362
+XM_034901367.1      ------------------------------------------------------------	1147
+XM_007551255.2      ------------------------------------------------------------	1092
+XM_014989315.1      ------------------------------------------------------------	1092
+XM_055024455.1      ------------------------------------------------------------	1130
+XM_048988506.1      ------------------------------------------------------------	1263
+AF043946.1          ------------------------------------------------------------	1078
+XM_053485316.1      ------------------------------------------------------------	869
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          ACAAATGAAGATGAGAACAAGATATGTTTATCGGTGTTCAATGAAGTTTTCTTTCTTTTC	1422
+XM_034901367.1      ------------------------------------------------------------	1147
+XM_007551255.2      ------------------------------------------------------------	1092
+XM_014989315.1      ------------------------------------------------------------	1092
+XM_055024455.1      ------------------------------------------------------------	1130
+XM_048988506.1      ------------------------------------------------------------	1263
+AF043946.1          ------------------------------------------------------------	1078
+XM_053485316.1      ------------------------------------------------------------	869
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          CCTTAGGCCCAAGATAAAACAGGAGATTCCTGCGCCCTCCAGTGGGAAGAGGCTGCTGAA	1482
+XM_034901367.1      ----------------------------GCGCTGCCGTCCAGTGGAAAGAGAGTCCTGCA	1179
+XM_007551255.2      ----------------------------CCTGCGCCCTCCAGCGGGAAGAGGCTGCTGAA	1124
+XM_014989315.1      ----------------------------CCTGCGCCCTCCAGCGGGAAGAGGCTGCTGAA	1124
+XM_055024455.1      ----------------------------CCTGCGCCCTCCAGTGGGAAGAGGCTGCTGAA	1162
+XM_048988506.1      -------------------------TCCAACTCCCCCCCCCATGGCAAG-----------	1287
+AF043946.1          --------------------------C--CTGCGCCCTCCAGTGGGAAGAGGCTGCTGAA	1110
+XM_053485316.1      --------------------------CAGCCGAACCCAAACGAGGGAAGAAACGACTGGT	903
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GGGGGG------AAGCGACAGCGACTAG--------------------------------	1504
+XM_034901367.1      GAGAGGAGAGAGGAGTGACAGTGACTAAGAAGCTTGTTGCCTTGATCATGAAAAAAAATT	1239
+XM_007551255.2      GGGGGG------AAGCGACAGCGACTAGT-------------------------------	1147
+XM_014989315.1      GGGGGG------AAGCGACAGCGACTAGT-------------------------------	1147
+XM_055024455.1      GGGGGG------AAGCGACAGCGACTAGTTTA----------------------------	1188
+XM_048988506.1      ----GTGAACAAGCTCCCCTCCGTCAGTCAGCTCAT------CAATCACCAGCCG-CGGG	1336
+AF043946.1          G---GGG---GGAAGCGACAGCGACTAG--------------------------------	1132
+XM_053485316.1      GAAGGAGGAGAAGAGCGACTCGGACTGAGAGGG----------------GGGGGG-GGGG	946
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          -------TTTACCGTCTTTCATTTGTCCTTTGATTTAT----ATTTTTATATACTCAATT	1553
+XM_034901367.1      AAGTCCTTCTCCCTCCAA------GCCATCGGGTGTAT-TTCA--GGCTTTTACA-CGTC	1289
+XM_007551255.2      --------GTACCGTCTTTCATTTGTCTTTTGGTTTATGTTCTTTTTTATATACTCCATT	1199
+XM_014989315.1      --------GTACCGTCTTTCATTTGTCTTTTGGTTTATGTTCTTTTTTATATACTCCATT	1199
+XM_055024455.1      -------------CTCTTTCATTT--CTTCTGATTTCT----ATTTTTATATTCTCCATT	1229
+XM_048988506.1      GCTCCCTCACGCCATCAAGCA--TG-CCTGGGGGGCTC----ACCGACATATCCCCCATC	1389
+AF043946.1          -------TTTACCGTCTTTCATTTGTCCTTTGGTTTAT----ATTTTTATATACTCAA-T	1180
+XM_053485316.1      GAGTCATTTATTCATCTTAC---TGTCTAGGGGGAA----------------ACT--G-C	984
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          A------TTCA-TTTTCATTTGTAATGGCATTATGTTTTCATTTAAATGTAGTAATTTGC	1606
+XM_034901367.1      ATTGAAACCC--------------------------------------------------	1299
+XM_007551255.2      ATTAA-------TTTTCATTTATAATGGCATTATGTTTTCATTTAAGTGTAGTAATTTTT	1252
+XM_014989315.1      ATTAA-------TTTTCATTTATAATGGCATTATGTTTTCATTTAAGTGTAGTAATTTTT	1252
+XM_055024455.1      A------TTCAT-TTACATTTGTAATGGCATTATGTTTCC-AATAAATGTAGTAATTTGT	1281
+XM_048988506.1      ATGGGCACACATCTCCCCATGGGCCCAGACATGAG------------TG---CCCTGAGC	1434
+AF043946.1          -----TATTCAT-TTTCATTTGTAATGGCATTATGTTTTCATTTAAATGTAGTAATTTGC	1234
+XM_053485316.1      -----ATTTCTTTATTCCTGTGTGTGTGTTGTGTGTGTGTGTGTGAGAG-----------	1028
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          CCCTTTTTTTTCTATATTTTTGCTAATGATTTGTCATCACGTAAAATAATTGCTTAGCTA	1666
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      TTTTC--CTTTTTATATTTTTGGAAATGATTTGTCATCATGTAAAATAATTGCTTAGTTG	1310
+XM_014989315.1      TTTTC--CTTTTTATATTTTTGGAAATGATTTGTCATCATGTAAAATAATTGCTTAGTTG	1310
+XM_055024455.1      C-CTTTTTTTTCTATATTTTTGCAATTGATTTGTCATCATGTAAAGTAATTGCTTAGTTA	1340
+XM_048988506.1      CCCACCCACGTCA---------------------------------TGCAGCCTCAGCTG	1461
+AF043946.1          CCCTTTTTTTTCTATATTATTGCTAATGATTTGTCATCACGTAAAATAATGGCTTAGCTA	1294
+XM_053485316.1      ------------------------------------------------------------	1028
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          GGTTTAATTATGTTGAGTTAAGTATTGGCC---AGTTTCGAGCCAAATAAAGCTC-----	1718
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      GGTTTAATTATGTTGAATTAAGTATTGACC---AGTTTCAAGCCAAATAAAGCT------	1361
+XM_014989315.1      GGTTTAATTATGTTGAATTAAGTATTGACC---AGTTTCAAGCCAAATAAAGCT------	1361
+XM_055024455.1      CCGTTAATAATGTTGAATTAAGTATTGGCC---AGTTTCGAGCCAAATAAAGCT------	1391
+XM_048988506.1      CC------AATG---------GTGACCGCCTCCCACTGCACGCCACCCCCACCATATCCC	1506
+AF043946.1          GGTTTAATTATGTTA-----AGTATTGGCC---AGTTTCGAGCCAAAT------------	1334
+XM_053485316.1      ------------------------------------------------------------	1028
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          ----------------TTCGCTTCATGGAGTTAAGAGGATGTTTTT-TTTTTTACTTACC	1761
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      --------------------CTCCATGGTGTTAAGAGGAATTTATTT-----AGTTTACT	1396
+XM_014989315.1      --------------------CTCCATGGTGTTAAGAGGAATTTATTT-----AGTTTACT	1396
+XM_055024455.1      --------------C-TCCAGTTCATGGTGTTAAAAGGATTTT------TTTAACTTACT	1430
+XM_048988506.1      ATCGACACCAGCATCTCCAGCTTCCTGGTGAGGCTGG---GCTGT---------TCCTCC	1554
+AF043946.1          -------AAGGCT--GTTCGCTTCATGGAGTTGAGAG-GATTTTTTTTTTTTTTTTTACC	1384
+XM_053485316.1      -------------------------AGATGTTGAGGTAGTTTTTTTTCTTTTTATACACC	1063
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AAGCTGTATTTTCTT-------ATTTCCTTAGTTAAAG--ATTAGATG--ATCTCAGTGG	1810
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      AAGCTATATTTTCT-------TATTTCCTTTGTTTAAAG-ATTGGATA--ATTTCAATGT	1446
+XM_014989315.1      AAGCTATATTTTCT-------TATTTCCTTAGTTTAAAG-ATTGGATA--ATTTCAATGT	1446
+XM_055024455.1      AAGCTGTATCTTTG-------TATTTCCTTAGTTTAA-ATATTAGATG--ATTTCAGTGG	1480
+XM_048988506.1      TGCCTGGAATATTTCACGGCACAGGGCCTGACTAACATCTATCAGATCG------AGAAC	1608
+AF043946.1          AAGCTGTATTTTCTT-------ATTTCCTTAGTTTA-AAGATTAGA-TG-ATCTCAGTGG	1434
+XM_053485316.1      TAACAT---------------------CTGTGTGTG-TGTGTGTGTGTGTGTGTGAGAGA	1101
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          CTTCATATTG---GTGGTTTATCTTTTGGGAACATTTATTT---TTTTCTTTTTTTAAGT	1864
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      CTTATCACTT---ATGATTTATCTCTTGGAAACAGTTTATT-TTTTTATTTTTTATAAGT	1502
+XM_014989315.1      CTTATCATTT---ATGATTTATCTCTTGGGAACAGTTTATT-TTTTTAT-TTTTTTAAGT	1501
+XM_055024455.1      ATTAGCATTGGGGGTTTAT----TTTTGGGAACATTTTTTTTTTTTTTTTTTTTTTAAGC	1536
+XM_048988506.1      TACGCCA-TGGAGGATCTCTCTCGGCTGAAAATCCCCGCCGAGT---TCCAGCA------	1658
+AF043946.1          CTTATCG-T--TGGTGATTTATCTTTTGGGAACATCTTTTTTTTTTTTTCTTTTTTAAGT	1491
+XM_053485316.1      GATGTTG-AGGTAGTTTTTTTTCTTTTT-ATACACCTAAC-------ATCTGTGTGTGTG	1152
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AGTGTTGGTAGAAGA-GGGGCTGGCTGGATCACCCCCAACATTTGAGCCTTTTTATACAA	1923
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      AGTGTTGGTAGAAGA-GGGGCTGGCTGGATCACCCCCAACACTTGAGCCTTGTTTTGTG-	1560
+XM_014989315.1      AGTGTTGGTAGAAGA-GGGGCTGGCTGGATCACCCCCAACACTTGAGCCTTGTTTTGTG-	1559
+XM_055024455.1      AGTATTGGTAGAAGA-GGGGCTGACTGGATCACCCCCAACACTTGAGCCTTTTTATATAA	1595
+XM_048988506.1      --CGT---CATCTGGAAGGGCATCCTGGACCATCG-------------------------	1688
+AF043946.1          AGTGTTGGTAGAAGAG-GGGCTGGCTGGATCACCCCCAACACTTGAGCCTTTTTATACAA	1550
+XM_053485316.1      TGTGTGTGTGTGTGTGTGTGTGTGCGTGTGCACGCGCA-CAATTG--------TTAA---	1200
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AGCTGAATTAACTTT----------ACCAAAACACTGTGGCCCTGTTTCAAAAACTAACT	1973
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      --------------------------------TTTTGTGGCCCTGTTTTGAAAACTAATT	1588
+XM_014989315.1      --------------------------------TTTTGTGGCCCTGTTTTGAAAACTAATT	1587
+XM_055024455.1      AGCTGAATGAACTTT----------ACCAAAAAGCTGTGGCCCTGTTTTGAAAGCTAATT	1645
+XM_048988506.1      ---------------------------------------------------------GCA	1691
+AF043946.1          AGCTGAATGAAC-CTT---------ACCAAAACGCTGTGGCCCTGTTTTGAAAACTAACT	1600
+XM_053485316.1      TGGTGCATAGACTCTCTCTCAGGACACCTGATCG-TGTTTCTCAGTTTAGTTCCTGATCA	1259
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TGACACTGAATAACCGACTCTGTTTTCCTGTCAGCTACTGTATT--CAAAATATGGATTC	2031
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      TGACACTGAAAAACCGTCTCAGTTTTCCTTCCAGCTACTGTATT--CAAAATATGAATCA	1646
+XM_014989315.1      TGACACTGAAAAACCGTCTCAGTTTTCCTTCCAGCTACTGTATT--CAAAATATGAATCA	1645
+XM_055024455.1      TGACCTTGAATAACTGACTCAGTTTTCCTGTCACCTACTGTATT--CAAAATGTGCATTG	1703
+XM_048988506.1      GGCATCTGAATTCCCGTCCCC---------------ACTGCAAATCCTGCGGCCGGTCTC	1736
+AF043946.1          TGACACTGAATAACCGACTCTGTTTTCCGGTCAGCTACTGTA--TTCAAAATATGGATTC	1658
+XM_053485316.1      TGTT------------CCTCTGAT--CTTTTCATGTTCTTTCTTACCTACAGACGGTTTT	1305
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          AGTCGCATC----CTTGCAGCAGTAAAGTTGATTA-----------------TTGTTTCC	2070
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      AGTCGCATC----TTTACAGCAGTAAAGTGGATTTTTTTTTTTTTGTTTGTTTTATTTCC	1702
+XM_014989315.1      AGTCGCATC----TTTACAGCAGTAAAGTGGATTTTTTTTTTT------TTTTTTTTTCC	1695
+XM_055024455.1      AGTCGCATC----CTTACAGCAGTAAAGTTGATTA-----------------TTGTTTCC	1742
+XM_048988506.1      CTCCTCCTCGGCCCCATCGTCCG-------------------------------------	1759
+AF043946.1          AGTCGCATC----CTTGCAGCAGTAAAGTTGATTA-----------------TTGTTTCC	1697
+XM_053485316.1      ATACACACA----CT--TTGTAGTTTAGATGAATT-----------------CTGTTCT-	1341
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TCCATTAAAACCAGTTGAACCACTTTAAGGCACTTTGACTTCATGTGACCAATCGCTGAC	2130
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      TCCTC-TAAACCAGTTGAACCACTTTAAGGCACTTTGGCTTGACGTGACCAATCACTGAC	1761
+XM_014989315.1      TCCTC-TAAACCAGTTGAACCACTTTAAGGCACTTTGGCTTGACGTGACCAATCACTGAC	1754
+XM_055024455.1      ACCTT-TGAACCAGTTGAACCACTTTAAGGCACTTTGGCTTGATGTGACCAATCACTGAC	1801
+XM_048988506.1      ------------------------------------------------------------	1759
+AF043946.1          TCCAT-TAAACCAGTTGAACCACTTTAAGGCACTTTGACTTCATGTGACCAATCGCTGAC	1756
+XM_053485316.1      -------TTTTCAGAATAAAA--ATAAA-------------------------TGAAGAT	1367
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TAAATGACCACTTTTAACAT-AACACTGCCAGAGAATATTAAGAGGCATTTCTGTAACTT	2189
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      TAAATGACCACTTTAAACTT-AACACTGCCAGAGAATATTTAGAGGCATTTCTGCAACTT	1820
+XM_014989315.1      TAAATGACCACTTTAAACTT-AACACTGCCAGAGAATATTTAGAGGCATTTCTGCAACTT	1813
+XM_055024455.1      TAAATGACCACTCTGAACGTAAACACTGCCAGAGGACATTTACAGGCATTTCTGTAACGT	1861
+XM_048988506.1      ------------------------------------------------------------	1759
+AF043946.1          TAAATGACCACTTTTAACAT-AACACTGCCAGAGAATATTAAGAGGCATTTCTGTAACTT	1815
+XM_053485316.1      AAA---------------------------------------------------------	1370
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          TGTAGCTTAGCAAAAGGTTTCGGTTTCCTTTAT---------------------------	2222
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      TGTAGTTTAGCGAAAGGTTTCGGTTTCCTTT-ATATTCTTCAAATTTCATGTATTTTGTA	1879
+XM_014989315.1      TGTAGTTTAGCGAAAGGTTTCGGTTTCCTTT-ATATTCTTCAAATTTCATGTATTTTGTA	1872
+XM_055024455.1      TGTAGTTTAGCGAAAGGCTTCGGTTTCCTTTTGTATTCTTTCATTTTCTTGTATTTTGTA	1921
+XM_048988506.1      ------------------------------------------------------------	1759
+AF043946.1          TGTAGCTTAGCAAAAGGTTTCGGTTTCCTTT-ATATTCTTGAATTTTCTTGTATTTTGTA	1874
+XM_053485316.1      ------------------------------------------------------------	1370
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          ------------------------------------------------------------	359
+AF043948.1          ------------------------------------------------------------	2222
+XM_034901367.1      ------------------------------------------------------------	1299
+XM_007551255.2      CTGACTTTCTGTTTTATACTCGAGTTTTGAGCTGAAATAAACACATTCAGTCTCAA----	1935
+XM_014989315.1      CTGACTTTCTGTTTTATACTCGAGTTTTGAGCTGAAATAAACACATTCAGTCTCAA----	1928
+XM_055024455.1      CTGACTTAATGTTTTATACTCGAGCTTTGAGCTGAAATAAACATATTCCGTCTCAA----	1977
+XM_048988506.1      ------------------------------------------------------------	1759
+AF043946.1          CTGACTTTCAGCTTTATACTCGAGCTCTGAGCTGAAATAAACACATTCCGTCTCAAAAAA	1934
+XM_053485316.1      ------------------------------------------------------------	1370
+XM_018575949.1      ------------------------------------------------------------	410
+                                                                                
+
+JX621874.1          -----------	359
+AF043948.1          -----------	2222
+XM_034901367.1      -----------	1299
+XM_007551255.2      -----------	1935
+XM_014989315.1      -----------	1928
+XM_055024455.1      -----------	1977
+XM_048988506.1      -----------	1759
+AF043946.1          AAAAAAAAAAA	1945
+XM_053485316.1      -----------	1370
+XM_018575949.1      -----------	410
+                               
