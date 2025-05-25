@@ -1,7 +1,7 @@
 #!/usr/bin/env nextflow
 
-params.reads = "/Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/ERR14949205.fastq"
-params.reference = "/Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/hg38.fa"
+params.reads = "/Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/SRR33602302.fastq"
+params.reference = "/Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/GCA_000005845.2_ASM584v2_genomic.fna"
 params.output_dir = "results"
 
 process fastqc_analysis {

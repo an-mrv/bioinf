@@ -6,9 +6,9 @@ Minimap2, Nextflow
 
 ## Пайплайн на bash
 
-Взяла геном человека - [Homo sapiens WXS](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=ERR14949205&display=download)
+Взяла геном Escherichia coli - [Escherichia coli](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR33602302&display=download)
 
-Скачала референсный геном [Homo sapiens](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
+Скачала референсный геном [e.coli](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000005845.2/)
 
 Скрипт [`bash/script.sh`](./bash/script.sh)
 
