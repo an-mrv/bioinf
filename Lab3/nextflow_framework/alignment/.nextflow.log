@@ -1,0 +1,116 @@
+May-25 00:55:11.947 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nextflow_framework/alignment/alignment_pipeline.nf -with-dag dag.png
+May-25 00:55:11.989 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 25.04.2
+May-25 00:55:11.999 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/Users/anastasiamrv/.nextflow/plugins; core-plugins: nf-amazon@2.15.0,nf-azure@1.16.0,nf-cloudcache@0.4.3,nf-codecommit@0.2.3,nf-console@1.2.1,nf-google@1.21.0,nf-k8s@1.0.0,nf-tower@1.11.2,nf-wave@1.12.1
+May-25 00:55:12.017 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+May-25 00:55:12.018 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+May-25 00:55:12.019 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.12.0 in 'deployment' mode
+May-25 00:55:12.023 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+May-25 00:55:12.049 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 by global default
+May-25 00:55:12.055 [main] DEBUG nextflow.cli.CmdRun - Launching `nextflow_framework/alignment/alignment_pipeline.nf` [romantic_easley] DSL2 - revision: ec2998e09d
+May-25 00:55:12.056 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+May-25 00:55:12.056 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[]
+May-25 00:55:12.078 [main] DEBUG nextflow.Session - Session UUID: ba362d35-450c-4b59-85f1-47761ba984a7
+May-25 00:55:12.079 [main] DEBUG nextflow.Session - Run name: romantic_easley
+May-25 00:55:12.079 [main] DEBUG nextflow.Session - Executor pool size: 12
+May-25 00:55:12.082 [main] DEBUG nextflow.file.FilePorter - File porter settings maxRetries=3; maxTransfers=50; pollTimeout=null
+May-25 00:55:12.085 [main] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'FileTransfer' minSize=10; maxSize=36; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+May-25 00:55:17.111 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 25.04.2 build 5947
+  Created: 13-05-2025 21:58 UTC (14-05-2025 04:58 NOVST)
+  System: Mac OS X 14.5
+  Runtime: Groovy 4.0.26 on OpenJDK 64-Bit Server VM 21.0.7
+  Encoding: UTF-8 (UTF-8)
+  Process: 40504@MacBook-Pro.local [192.168.0.14]
+  CPUs: 12 - Mem: 36 GB (92.9 MB) - Swap: 5 GB (1 GB)
+May-25 00:55:17.126 [main] DEBUG nextflow.Session - Work-dir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work [Mac OS X]
+May-25 00:55:17.126 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/nextflow_framework/alignment/bin
+May-25 00:55:17.139 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+May-25 00:55:17.144 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+May-25 00:55:17.153 [main] DEBUG nextflow.Session - Observer factory (v2): LinObserverFactory
+May-25 00:55:17.165 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+May-25 00:55:17.171 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 13; maxThreads: 1000
+May-25 00:55:17.198 [main] DEBUG nextflow.Session - Session start
+May-25 00:55:17.556 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+May-25 00:55:17.560 [main] DEBUG n.secret.LocalSecretsProvider - Secrets store: /Users/anastasiamrv/.nextflow/secrets/store.json
+May-25 00:55:17.564 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@5e50df2e] - activable => nextflow.secret.LocalSecretsProvider@5e50df2e
+May-25 00:55:17.610 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.611 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.613 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+May-25 00:55:17.616 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=12; memory=36 GB; capacity=12; pollInterval=100ms; dumpInterval=5m
+May-25 00:55:17.617 [main] DEBUG n.processor.TaskPollingMonitor - >>> barrier register (monitor: local)
+May-25 00:55:17.632 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'fastqc_analysis': maxForks=0; fair=false; array=0
+May-25 00:55:17.653 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.653 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.653 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'build_index': maxForks=0; fair=false; array=0
+May-25 00:55:17.655 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.655 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.656 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'align_reads': maxForks=0; fair=false; array=0
+May-25 00:55:17.658 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.658 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.659 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'alignment_stats': maxForks=0; fair=false; array=0
+May-25 00:55:17.662 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.662 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.663 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'sort_bam': maxForks=0; fair=false; array=0
+May-25 00:55:17.665 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.665 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.665 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'freebayes': maxForks=0; fair=false; array=0
+May-25 00:55:17.668 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+May-25 00:55:17.668 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+May-25 00:55:17.668 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'completion_message': maxForks=0; fair=false; array=0
+May-25 00:55:17.669 [main] DEBUG nextflow.Session - Workflow process names [dsl2]: completion_message, fastqc_analysis, alignment_stats, build_index, freebayes, align_reads, sort_bam
+May-25 00:55:17.670 [main] DEBUG nextflow.Session - Igniting dataflow network (7)
+May-25 00:55:17.670 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > fastqc_analysis
+May-25 00:55:17.670 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > build_index
+May-25 00:55:17.670 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > align_reads
+May-25 00:55:17.670 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > alignment_stats
+May-25 00:55:17.670 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > sort_bam
+May-25 00:55:17.671 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > freebayes
+May-25 00:55:17.671 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > completion_message
+May-25 00:55:17.671 [main] DEBUG nextflow.script.ScriptRunner - Parsed script files:
+  Script_1f3960460a9b2030: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/nextflow_framework/alignment/alignment_pipeline.nf
+May-25 00:55:17.671 [main] DEBUG nextflow.script.ScriptRunner - > Awaiting termination 
+May-25 00:55:17.671 [main] DEBUG nextflow.Session - Session await
+May-25 00:55:17.727 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 00:55:17.728 [Task submitter] INFO  nextflow.Session - [51/bb57cd] Submitted process > fastqc_analysis
+May-25 00:55:17.732 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 00:55:17.732 [Task submitter] INFO  nextflow.Session - [d1/789fbd] Submitted process > build_index
+May-25 00:55:17.735 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 00:55:17.735 [Task submitter] INFO  nextflow.Session - [6d/8a2dd8] Submitted process > completion_message
+May-25 00:55:17.749 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: completion_message; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/6d/8a2dd85faf31f133346e759921a95f]
+May-25 00:55:17.749 [Task monitor] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'TaskFinalizer' minSize=10; maxSize=36; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+May-25 00:55:58.981 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: build_index; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/d1/789fbd5b8c62507696e426a3e7f997]
+May-25 00:55:59.003 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 00:55:59.003 [Task submitter] INFO  nextflow.Session - [a2/5a2913] Submitted process > align_reads
+May-25 00:55:59.005 [TaskFinalizer-2] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'PublishDir' minSize=10; maxSize=36; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+May-25 00:57:17.811 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: fastqc_analysis; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/51/bb57cd6444793d51502873eedda81e]
+May-25 01:00:17.747 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 4; name: align_reads; status: RUNNING; exit: -; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/a2/5a2913c3d7c2b7a36a644a3311c328]
+May-25 01:04:34.371 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 4; name: align_reads; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/a2/5a2913c3d7c2b7a36a644a3311c328]
+May-25 01:04:34.399 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 01:04:34.399 [Task submitter] INFO  nextflow.Session - [7e/4850c1] Submitted process > alignment_stats
+May-25 01:05:17.856 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 5; name: alignment_stats; status: RUNNING; exit: -; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/7e/4850c1a94abee0e55f45d502511263]
+May-25 01:11:19.202 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 5; name: alignment_stats; status: RUNNING; exit: -; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/7e/4850c1a94abee0e55f45d502511263]
+May-25 01:11:31.693 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 5; name: alignment_stats; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/7e/4850c1a94abee0e55f45d502511263]
+May-25 01:11:31.709 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 01:11:31.710 [Task submitter] INFO  nextflow.Session - [88/e69f2f] Submitted process > sort_bam
+May-25 01:12:55.250 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 6; name: sort_bam; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/88/e69f2fcd2927af10973d9de97f58be]
+May-25 01:12:55.256 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+May-25 01:12:55.256 [Task submitter] INFO  nextflow.Session - [27/951de2] Submitted process > freebayes
+May-25 01:16:19.219 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 7; name: freebayes; status: RUNNING; exit: -; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/27/951de2e514cf97c205a3e5c2ebbd22]
+May-25 01:21:19.259 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 7; name: freebayes; status: RUNNING; exit: -; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/27/951de2e514cf97c205a3e5c2ebbd22]
+May-25 01:26:19.313 [Task monitor] DEBUG n.processor.TaskPollingMonitor - !! executor local > tasks to be completed: 1 -- submitted tasks are shown below
+~> TaskHandler[id: 7; name: freebayes; status: RUNNING; exit: -; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/27/951de2e514cf97c205a3e5c2ebbd22]
+May-25 01:28:17.000 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 7; name: freebayes; status: COMPLETED; exit: 0; error: -; workDir: /Users/anastasiamrv/IdeaProjectsNSU/bioinf/Lab3/work/27/951de2e514cf97c205a3e5c2ebbd22]
+May-25 01:28:17.001 [main] DEBUG nextflow.Session - Session await > all processes finished
+May-25 01:28:17.105 [Task monitor] DEBUG n.processor.TaskPollingMonitor - <<< barrier arrives (monitor: local) - terminating tasks monitor poll loop
+May-25 01:28:17.105 [main] DEBUG nextflow.Session - Session await > all barriers passed
+May-25 01:28:17.126 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'TaskFinalizer' shutdown completed (hard=false)
+May-25 01:28:17.126 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'PublishDir' shutdown completed (hard=false)
+May-25 01:28:17.144 [main] DEBUG n.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=7; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=34m 58s; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=3; peakCpus=3; peakMemory=0; ]
+May-25 01:28:17.546 [main] DEBUG nextflow.cache.CacheDB - Closing CacheDB done
+May-25 01:28:17.556 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'FileTransfer' shutdown completed (hard=false)
+May-25 01:28:17.556 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
