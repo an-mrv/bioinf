@@ -8,26 +8,32 @@
 
 ## Визуализация белка
 Визуализация выбирается на правой боковой панели
+
 ![screenshot.png](images/screenshot.png)
 
 ### Wireframe
 В Protein Imager называется **Stick**
+
 ![stick.png](images/stick.png)
 
 ### Backbone
 В Protein Imager называется **Tube**
+
 ![tube.png](images/tube.png)
 
 ### Spacefill
 В Protein Imager называется **Sphere**
+
 ![sphere.png](images/sphere.png)
 
 ### Ribbons
 В Protein Imager называется **Cartoon**
+
 ![cartoon.png](images/cartoon.png)
 
 ### Molecular surface
 В Protein Imager называется **Surface**
+
 ![surface.png](images/surface.png)
 
 ## Раскраска структуры
